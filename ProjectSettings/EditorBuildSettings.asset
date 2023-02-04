@@ -6,9 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HeneGames/Simple Airplane Controller/Example scenes/Official.unity
+    path: Assets/Simple Airplane Controller/Scenes/Official.unity
     guid: 6c5a12cfbe2b87b4b98eace67b9d03e2
   - enabled: 1
-    path: Assets/HeneGames/Simple Airplane Controller/Example scenes/GameOver.unity
+    path: Assets/Simple Airplane Controller/Scenes/Win.unity
     guid: def88ffcb512349109fb9df0e6edcd27
+  - enabled: 1
+    path: Assets/Simple Airplane Controller/Scenes/intro.unity
+    guid: 4dc6a2eb489834028af90cd5eae8bf33
+  - enabled: 1
+    path: Assets/Simple Airplane Controller/Scenes/start.unity
+    guid: 905cb409e0b954107b3e8c0b0ac1950f
   m_configObjects: {}
