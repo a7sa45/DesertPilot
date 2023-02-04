@@ -310,7 +310,7 @@ namespace HeneGames.Airplane
 
             //Kill player
             planeIsDead = true;
-            SceneManager.LoadScene(3);
+            //SceneManager.LoadScene(3);
 
             //Here you can add your own code...
         }
