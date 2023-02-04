@@ -42,7 +42,7 @@ public class goPlay : MonoBehaviour
         {
             SceneManager.LoadScene(3);
         }
-        if(Input.GetKeyDown(KeyCode.Space) == true)
+        if(Input.GetKeyDown(KeyCode.O) == true)
         {
             SceneManager.LoadScene(2);
         }
